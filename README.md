@@ -335,7 +335,7 @@ Este documento proporciona un marco estratégico completo para el desarrollo e i
 
 ---
 
-> **Desarrollado por:** [Tu Nombre]  
+> **Desarrollado por:** Equipo de Desarrollo y Planificación de LavaPrenda  
 > **Versión:** 1.0  
 > **Fecha:** 27 Feb 2025 
 > **Contacto:** lavaprenda.oficial@gmail.com
